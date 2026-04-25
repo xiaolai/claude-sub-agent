@@ -107,7 +107,7 @@ The system follows a three-phase approach with quality gates:
 
 **Utility Agents**
 
-- refactor-agent: Code quality and refactoring specialist
+- code-refactorer-agent: Code quality and refactoring specialist
 
 ### Quality Framework
 
