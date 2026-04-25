@@ -1,4 +1,5 @@
 ---
+name: agent-workflow
 description: "Automated multi-agent development workflow with quality gates from idea to production code"
 allowed-tools: ["Task", "Read", "Write", "Edit", "MultiEdit", "Grep", "Glob", "TodoWrite"]
 ---
